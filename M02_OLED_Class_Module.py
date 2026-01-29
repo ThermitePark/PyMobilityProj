@@ -1,4 +1,4 @@
-from _31_ssd1306 import SSD1306_I2C
+from M01_OLED_SSD1306_Module import SSD1306_I2C
 from machine import Pin, I2C
 
 class OLED:
